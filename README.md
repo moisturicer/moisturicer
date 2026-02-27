@@ -6,7 +6,7 @@
 <b>Programming Languages</b>
 <br>
 
-<p> <img src="https://skillicons.dev/icons?i=c" /> <img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=kotlin" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=ts" /> <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=sql" /> </p> <br>
+<p> <img src="https://skillicons.dev/icons?i=c" /> <img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=java" />  <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=ts" /> <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=sql" /> </p> <br>
 
 <b>Web Development / Frameworks</b>
 <br>
@@ -16,7 +16,7 @@
 <b>AI and Data</b>
 <br>
 
-<p> <img src="https://skillicons.dev/icons?i=tensorflow" /> <img src="https://skillicons.dev/icons?i=pytorch" /> </p> <br>
+<p> <img src="https://skillicons.dev/icons?i=tensorflow" />  </p> <br>
 
 <b>Tools</b>
 <br>
