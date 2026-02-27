@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center"> <div style="font-size:28px; font-weight:bold;"> HERMOINE ZOZOBRADO </div> <div style="font-size:16px;"> CS Student @ CIT-U </div> <br> <img src="https://komarev.com/ghpvc/?username=moisturicer" /> </div>
 
-<!--
-**moisturicer/moisturicer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+<div style="font-size:28px; font-weight:bold;"> -- ABOUT ME -- </div> <p style="font-size:30px;"> Hi! I am a third-year Computer Science student. I am interested in AI, Data Science, and Automation, especially Machine Learning, Computer Vision, and real-world applications. </p> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Programming Languages</b>
+<br>
+
+<p> <img src="https://skillicons.dev/icons?i=c" /> <img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=kotlin" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=ts" /> <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=sql" /> </p> <br>
+
+<b>Web Development / Frameworks</b>
+<br>
+
+<p> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=django" /> </p> <br>
+
+<b>AI and Data</b>
+<br>
+
+<p> <img src="https://skillicons.dev/icons?i=tensorflow" /> <img src="https://skillicons.dev/icons?i=pytorch" /> </p> <br>
+
+<b>Tools</b>
+<br>
+
+<p> <img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=figma" /> </p>
+
+<br> <div style="font-size:26px; font-weight:bold;"> -- PROJECTS -- </div> <table width="100%"> <tr> <td width="50%" valign="top"> <div style="margin-bottom:20px;"> <b>PresyoAni (SDG 8)</b> <br> PresyoAni is an offline-capable digital assistant that verifies harvest quality using Edge AI, delivers price transparency, and connects farmers directly to buyers via asynchronous data syncing. <br> <a href="https://github.com/moisturicer/presyoani"> View Repository </a> </div> </td> <td width="50%" valign="top"> <div style="margin-bottom:20px;"> <b>SuSTEM (SDG 4)</b> <br> SuSTEM is an AI-powered web-based multiplayer game designed to reimagine STEM education for Filipino students by blending collaborative learning with social deduction gameplay. Built for fun, curiosity, and continuous skill development, SuSTEM turns every quiz into a thrilling mission. <br> <a href="https://github.com/moisturicer/SuSTEM"> View Repository </a> </div> </td> </tr> </table>
