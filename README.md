@@ -1,7 +1,7 @@
 <div align="center"> <div style="font-size:28px; font-weight:bold;"> HERMOINE ZOZOBRADO </div> <div style="font-size:16px;"> CS Student @ CIT-U </div> <br> <img src="https://komarev.com/ghpvc/?username=moisturicer" /> </div>
 
 <br><br>
-<p style="font-size:30px;"> Hi! I am a third-year Computer Science student. I am interested in AI, Data Science, and Automation, especially Machine Learning, Computer Vision, and real-world applications. </p> <br>
+<p style="font-size:30px;"> Hi! I am a third-year Computer Science student. I am interested in AI, Data Science, and automation, especially Machine Learning, Computer Vision, and real-world applications. </p> <br>
 
 <b>Programming Languages</b>
 <br>
