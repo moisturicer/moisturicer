@@ -1,8 +1,7 @@
 <div align="center"> <div style="font-size:28px; font-weight:bold;"> HERMOINE ZOZOBRADO </div> <div style="font-size:16px;"> CS Student @ CIT-U </div> <br> <img src="https://komarev.com/ghpvc/?username=moisturicer" /> </div>
 
 <br><br>
-
-<div style="font-size:28px; font-weight:bold;"> -- ABOUT ME -- </div> <p style="font-size:30px;"> Hi! I am a third-year Computer Science student. I am interested in AI, Data Science, and Automation, especially Machine Learning, Computer Vision, and real-world applications. </p> <br>
+<p style="font-size:30px;"> Hi! I am a third-year Computer Science student. I am interested in AI, Data Science, and Automation, especially Machine Learning, Computer Vision, and real-world applications. </p> <br>
 
 <b>Programming Languages</b>
 <br>
@@ -24,7 +23,7 @@
 
 <p> <img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=figma" /> </p>
 
-<br> <div style="font-size:26px; font-weight:bold;"> -- HACKATHON PROJECTS -- </div> <table width="100%"> <tr> <td width="50%" valign="top"> <div style="margin-bottom:20px;"> 
+<br> <div style="font-size:26px; font-weight:bold;" align="center"> HACKATHON PROJECTS </div> <table width="100%"> <tr> <td width="50%" valign="top"> <div style="margin-bottom:20px;"> 
 
 <b>PresyoAni (SDG 8) - Innovation Cup Cebu 2026</b> <br> PresyoAni is an offline-capable digital assistant that verifies harvest quality using Edge AI, delivers price transparency, and connects farmers directly to buyers via asynchronous data syncing. <br> <br> <a href="https://github.com/moisturicer/presyoani"> View Repository </a> </div> </td> <td width="50%" valign="top"> <div style="margin-bottom:20px;"> 
 
