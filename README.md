@@ -37,8 +37,12 @@ Hackathons Joined
 <td>Top 10 Finalist</td>
 </tr>
 <tr>
-<td>Innovation Cup Cebu</td>
+<td>Innovation Cup Cebu 2026</td>
 <td>Top 15 Finalist</td>
+</tr>
+<tr>
+<td>ASEAN AI Hackathon 2026</td>
+<td>Participant</td>
 </tr>
 </table>
 
